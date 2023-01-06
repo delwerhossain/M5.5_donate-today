@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+}
+header{
+    background-image: url(../images/donation2.jpg);
+    /* background-size: 100% 1500px; */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header-banner{
+    text-align: center;
+    align-items: center;
+
+}
+nav h1 p{
+    color: white;
+
+}
+.btn-primary{
+    background-color: #ff5c5c;
+    color: white;
+    border-radius: 20px;
+}
